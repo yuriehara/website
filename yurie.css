@@ -1,0 +1,105 @@
+@media screen and (max-width: 380px) {
+   /* 表示領域が380px以下の場合に適用するスタイル */
+   div#sidebar { width: 100%; }
+   
+   @charset "iso-8859-1";
+
+A:HOVER{  color :#73706D;  
+text-decoration : none;  
+background-color : #E8FD9F; 
+position : relative; 
+top :2px;left:2px;  
+}
+
+A{  text-decoration : none; 
+ color : #8C929F;}
+
+BODY { BACKGROUND-POSITION: 0% 100%; FONT-SIZE: 16px;
+ FONT-FAMILY:
+Verdana, Arial, Helvetica, sans-serif } 
+
+ul {
+FONT-SIZE: 16px;
+
+}
+
+li {
+    padding-top:1px;
+    padding-bottom:1px;
+
+    }
+
+TD { FONT-SIZE: 16px;
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;} 
+
+.line {
+LINE-HEIGHT: 160% } 
+
+.small { FONT-SIZE: 15px } 
+
+
+
+.w { BORDER-RIGHT: 1px solid; BORDER-TOP: #919191 1px solid; BORDER-LEFT: #919191 1px solid; COLOR: #878787; BORDER-BOTTOM: #919191 1px solid; BACKGROUND-COLOR: #FFFFFF;}
+
+
+#udm {
+    padding-top:6px;
+    padding-bottom:6px;
+    background-color:#699f62;
+    }
+    
+}
+
+@media screen and (min-width: 800px) {
+   /* 表示領域が800px以上の場合に適用するスタイル */
+   div#sidebar { width: 240px }
+   
+@charset "iso-8859-1";
+
+
+A:HOVER{  color :#73706D;  
+text-decoration : none;  
+background-color : #E8FD9F; 
+position : relative; 
+top :2px;left:2px;  
+}
+
+A{  text-decoration : none; 
+ color : #8C929F;}
+
+BODY { BACKGROUND-POSITION: 0% 100%; FONT-SIZE: 14px;
+ FONT-FAMILY:
+Verdana, Arial, Helvetica, sans-serif } 
+
+ul {
+FONT-SIZE: 14px;
+
+}
+
+li {
+    padding-top:1px;
+    padding-bottom:1px;
+
+    }
+
+TD { FONT-SIZE: 14px;
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;} 
+
+.line {
+LINE-HEIGHT: 160% } 
+
+.small { FONT-SIZE: 14px } 
+
+
+
+.w { BORDER-RIGHT: 1px solid; BORDER-TOP: #919191 1px solid; BORDER-LEFT: #919191 1px solid; COLOR: #878787; BORDER-BOTTOM: #919191 1px solid; BACKGROUND-COLOR: #FFFFFF;}
+
+
+#udm {
+    padding-top:6px;
+    padding-bottom:6px;
+    background-color:#699f62;
+    }
+}
+
+
