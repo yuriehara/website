@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+
+<HEAD> <TITLE>Yurie Hara</TITLE> <link rel="stylesheet" type="text/css" href="yurie.css">
+
+    <!-- ULTIMATE DROP DOWN MENU Version 4.301 by Brothercake -->
+    <!-- http://www.udm4.com/ -->
+    <script type="text/javascript" src="udm4/udm-resources/style-green.js"></script>
+    <script type="text/javascript">
+
+    //path to images folder
+    um.baseSRC = 'udm4/udm-resources/';
+
+</script>
+    <script type="text/javascript" src="udm4/udm-resources/udm-control.js"></script>
+    <script type="text/javascript" src="udm4/udm-resources/udm-style.js"></script>
+
+<style type="text/css"> <!-- BODY { BACKGROUND-POSITION: 0% 100%;
+
+BACKGROUND-ATTACHMENT:
+
+fixed;
+
+BACKGROUND-IMAGE: url(wireplants-d.jpg);
+
+BACKGROUND-REPEAT: no-repeat } -->
+
+ </style>
+
+
+</HEAD>
+
+
+
+<BODY>
+
+
+
+
+
+
+<!-- menu script --> <script type="text/javascript" src="udm4/udm-resources/udm-dom.js"></script>
+
+
+
+
+
+<div style="margin-top:9em;height:20em;">
+
+
+
+<p><img src="11.gif" border="0" height="9"
+ width="9" alt=""> Yurie Hara</p>
+
+<p>Assistant Professor in Linguistics at
+<a href="http://lt.cityu.edu.hk/">Department of  Linguistics and Translation</a>,
+ <a href="http://www.cityu.edu.hk/">City University of Hong Kong</a></p>
+
+<p><img src="11.gif" border="0" height="9"
+ width="9" alt=""> Current Project<br>
+Germany/Hong Kong Joint Research Scheme: <a href="https://sites.google.com/a/gapps.cityu.edu.hk/speech-acts-and-particles/home">Cross-linguistic Investigation into the Influence of Particles on Speech Acts </a>
+<br>
+<a href="https://sites.google.com/a/gapps.cityu.edu.hk/speech-acts-and-particles/workshop/speech-acts-and-particles-2">2nd Workshop on 14 October, 2011 </a>
+</p>
+
+<p>
+ Mailing Address:</p>
+<p>
+Department of Chinese, Translation and Linguistics<br>
+City University of Hong Kong<br>
+TYB-B1 3/F, Rm 302<br>
+83, Tat Chee Avenue<br>
+Kowloon, Hong Kong SAR
+</p>
+
+
+ <p>
+ <img src="mail.gif" alt="">
+<br>
+<img src="mailaddress.png" alt="">
+</p>
+
+
+
+<p>
+Last updated on
+<!--#config timefmt="%d/%m/%Y %X" -->
+<!--#echo var="LAST_MODIFIED" -->
+</p>
+
+
+
+<!-- <p>
+<img border="0" src="timer.gif" width="9" height="11">
+Current Projects:
+</p>
+Relevance conditionals and exhaustification over speech acts<Br>
+Contrastive Topics (with <A Href="http://home.medewerker.uva.nl/r.a.m.vanrooij/">Robert van Rooij</A>)<Br>
+The semantics of the evidential intonation in Japanese (with <A Href="http://www.people.umass.edu/kawahara/">Shigeto Kawahara</A>)<Br>
+Japanese `even' and imperatives (with <A Href="http://www.l.u-tokyo.ac.jp/~s_t/index.html">Shoichi Takahashi</A>)<Br>
+The hiatus resolution of Hiroshima Japanese (with <A Href="http://www.people.umass.edu/kawahara/">Shigeto Kawahara</A>)<Br>
+ -->
+
+
+
+
+
+<!--  <p>
+<img border="0" src="timer.gif" width="9" height="11">    what's new
+
+<br>         10/29/07 NELS handout on Contrastive Topics up (<a href="http://ling.bun.kyoto-u.ac.jp/~yhara/download/">papers/handouts</a>)
+
+<br>         06/21/07 LENLS handout up (<a href="http://ling.bun.kyoto-u.ac.jp/~yhara/download/">papers/handouts</a>)
+<br>         10/26/06 Manuscript on Evidentiality of Discourse Items and <I>becuase</I>-clauses up (<a href="http://ling.bun.kyoto-u.ac.jp/~yhara/download/">papers/handouts</a>)
+ -->
+
+<!--
+<p><a href="http://u-maker.com/42266.html" target="_blank"><img
+ src="box09.gif" onmouseover="this.src='box10.gif'"
+ onmouseout="this.src='box09.gif'" border="0" width="32" height="23"></a>
+</p> -->
+
+
+
+
+
+
+
+</div>
+
+<!--#include file="menu.html" -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-282843-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</BODY>
+
+
+ </HTML>
+

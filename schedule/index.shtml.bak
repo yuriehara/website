@@ -1,0 +1,53 @@
+<HEAD> <TITLE>Yurie Hara</TITLE> <link rel="stylesheet" type="text/css" href="yurie.css">
+
+    <!-- ULTIMATE DROP DOWN MENU Version 4.301 by Brothercake -->
+    <!-- http://www.udm4.com/ -->
+    <script type="text/javascript" src="udm4/udm-resources/style-green.js"></script>
+    <script type="text/javascript">
+
+    //path to images folder
+    um.baseSRC = 'udm4/udm-resources/';
+
+</script>
+    <script type="text/javascript" src="udm4/udm-resources/udm-control.js"></script>
+    <script type="text/javascript" src="udm4/udm-resources/udm-style.js"></script>
+
+<style type="text/css"> <!-- BODY { BACKGROUND-POSITION: 0% 100%;
+
+BACKGROUND-ATTACHMENT:
+
+fixed;
+
+BACKGROUND-IMAGE: url(wireplants-d.jpg);
+
+BACKGROUND-REPEAT: no-repeat } -->
+
+ </style>
+
+
+</HEAD>
+
+
+
+<BODY>
+
+
+
+<!--#include file="menu.html" -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-282843-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</BODY>
+
+
+ </HTML>
+
+<iframe src="http://www.google.com/calendar/hosted/gapps.cityu.edu.hk/embed?src=yurihara%40gapps.cityu.edu.hk&ctz=Asia/Hong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> 
